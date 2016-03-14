@@ -9,6 +9,8 @@
 ```
 `scriptPath`  echarts.js的路径  
 `autoRestore`  boolean值， 默认为false。当值为true，图表重新进入可视区域时会自动恢复（附带动画） 
+*autoRestore是实验性功能，有bug慎用。
+*NormalChart和DynamicChart需结合ImportECharts一同使用方有效果
 ###NormalChart
 ######普通图表
 示例
