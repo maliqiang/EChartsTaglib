@@ -13,7 +13,7 @@
         <description>动态数据</description>
         <display-name>DynamicData</display-name>
         <servlet-name>getData</servlet-name>
-        <servlet-class>Taglib.DynamicData</servlet-class>
+        <servlet-class>servlet.DynamicData</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>getData</servlet-name>
