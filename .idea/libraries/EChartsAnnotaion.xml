@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EChartsAnnotaion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../EChartsAnnotation/out/artifacts/EChartsAnnotaion/EChartsAnnotaion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
